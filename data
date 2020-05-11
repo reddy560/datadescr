@@ -1,0 +1,22 @@
+Data Description
+In this section I will the data that will be used to analyze the problem of food inspection and the
+source of the data. In order to develop a sufficient prediction system, the data should have the
+following categories:
+• Weather Data- In public health, the weather is a key component. Long rains are associated
+with flooding which predisposes to contamination of food with waterborne microbes.
+• Crime Data- Higher crime rates have been strongly correlated with poverty due to lack of
+employment. Poverty has been in turn correlated with low hygiene which tends to predict
+the occurrence of critical violations of food safety regulations.
+• Places Data-To help locate food establishments for inspection, there needs to be a way to
+pinpoint exactly where they are situated and preferably show it on a map. There are
+different sources of places data each which its set of strength and weakness.
+• Inspection Data- Inspection data contains information such as previous the history of
+critical violations, type of facility, whether the establishment has a tobacco license and the
+length of time the establishment has been operating.
+• Water and Sanitation data- Garbage and sanitation complaints can be used, together with
+other data, to try and predict critical violations. A place with frequent sanitation complaints
+is more likely to have a joint with critical violations as compared to another without any
+complaint.
+• Demographics data- Demographics especially health demographics contain data about
+people living around a place including the age, sex, estimated income, occupation, recent
+infections all of which can be carefully correlated and used to predict a critical violation. 
